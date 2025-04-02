@@ -31,14 +31,6 @@ I started my journey as a game developer, creating projects in **Unity (C#)** an
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=expeline&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=expeline&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ### 🌎 Connect with Me:
 - 💬 Telegram: [@expeline](https://t.me/expeline)
 - ✉️ Email: kalashyan.arthur@gmail.com
