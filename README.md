@@ -9,7 +9,7 @@ The founder of a great team - **Void Update**, co-founder of **IVU**.
 ---
 
 ### 🎮 Projects:
-- 🎥 [Dodo VR](https://www.youtube.com/watch?v=kz5b-NM6S9Q) – A VR simulator for **DODO Pizza**
+- 🎥 [Dodo VR](https://www.youtube.com/watch?v=YfQihvlOyL0) – A VR simulator for **DODO Pizza**
 - 🏠 [House Creator VR](https://www.youtube.com/watch?v=kz5b-NM6S9Q) – A home-building VR game with full customization
 
 ---
