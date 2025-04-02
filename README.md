@@ -36,7 +36,7 @@ The founder of a great team - **Void Update**, co-founder of **IVU**.
 ---
 
 ### 🌎 Connect with Me:
-- 💬 Telegram: [@expeline](https://t.me/expeline)
+- 💬 Telegram: [@expeline_dev](https://t.me/expeline_dev)
 - ✉️ Email: kalashyan.arthur@gmail.com
 
 🚀 **Let's build something awesome together!**
