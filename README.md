@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [YOUR NAME]!
+## 👋 Hi, I'm Arthur!
 
 I started my journey as a game developer, creating projects in **Unity (C#)** and **Unreal Engine 5 (C++)**. Later, I expanded into **Telegram bot development** and **automation with Python**. Throughout this time, I participated in numerous competitions and gained experience in **web development (HTML, Tailwind CSS)**. Additionally, I have strong video editing skills in **DaVinci Resolve**. The founder of a great team - Void Update, co-founder of IVU.
 
